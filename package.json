@@ -20,7 +20,7 @@
     "jenerator"
   ],
   "dependencies": {
-    "minimist": "~0.0.7"
+    "minimist": "~0.2.1"
   },
   "devDependencies": {},
   "optionalDependencies": {},
